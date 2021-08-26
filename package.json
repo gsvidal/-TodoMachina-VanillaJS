@@ -1,0 +1,16 @@
+{
+  "name": "todomachine-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gonzalo Vidal",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.51.1"
+  },
+  "type": "module"
+}
